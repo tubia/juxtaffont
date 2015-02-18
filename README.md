@@ -1,7 +1,7 @@
 # Juxtaffont
 
 ## Origin
-The name is just a _calembour_ between **juxtaposition** and **font**, marking the basic scope of the application.
+The name is just a _portmanteau_ between **juxtaposition** and **font**, marking the basic scope of the application.
 
 ## Features
 Compare Google Fonts showing their shape in real-time.  
