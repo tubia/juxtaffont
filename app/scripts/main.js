@@ -9,8 +9,7 @@ $.getJSON('https://www.googleapis.com/webfonts/v1/webfonts?key=AIzaSyBQXlctfxcem
     }    
 });
 function addGoogleFont(FontName) {
-    'use strict';
-    $('head').append('<link href="https://fonts.googleapis.com/css?family=' + encodeURIComponent(FontName) + ' rel="stylesheet" type="text/css">');
+    $('head').append("<link href='https://fonts.googleapis.com/css?family=" + encodeURIComponent(FontName) + "' rel='stylesheet' type='text/css'>");
 }
 function cambioFont(controllo, testarea) {
     'use strict';
